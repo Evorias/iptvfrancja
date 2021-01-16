@@ -223,14 +223,10 @@ http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/41201
 http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/31314
 #EXTINF:-1 tvg-ID="hbo2.pl" tvg-name="PL: HBO 2 FHD" tvg-logo="" group-title="Live: Poland",PL: HBO 2 FHD
 http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/8080
-#EXTINF:-1 tvg-ID="hbo2.pl" tvg-name="PL: HBO 2 HD" tvg-logo="http://www.camdserver.com/sb_data/files/logo/hbo-2.jpg" group-title="Live: Poland",PL: HBO 2 HD
-http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/5138
 #EXTINF:-1 tvg-ID="hbo3.pl" tvg-name="PL: HBO 3 FHD" tvg-logo="" group-title="Live: Poland",PL: HBO 3 FHD
 http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/8077
 #EXTINF:-1 tvg-ID="hbo.pl" tvg-name="PL: HBO FHD" tvg-logo="" group-title="Live: Poland",PL: HBO FHD
 http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/8081
-#EXTINF:-1 tvg-ID="hbo.pl" tvg-name="PL: HBO HD" tvg-logo="http://www.camdserver.com/sb_data/files/logo/hbo-1.jpg" group-title="Live: Poland",PL: HBO HD
-http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/5137
 #EXTINF:-1 tvg-ID="hgtv.pl" tvg-name="PL: HG TV HD" tvg-logo="" group-title="Live: Poland",PL: HG TV HD
 http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/8214
 #EXTINF:-1 tvg-ID="hgtv.pl" tvg-name="PL: HGTV" tvg-logo="" group-title="Live: Poland",PL: HGTV
@@ -245,8 +241,6 @@ http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/41202
 http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/12696
 #EXTINF:-1 tvg-ID="kuchniaplus.pl" tvg-name="PL: Kuchnia FHD" tvg-logo="" group-title="Live: Poland",PL: Kuchnia FHD
 http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/8219
-#EXTINF:-1 tvg-ID="kuchniaplus.pl" tvg-name="PL: KUCHNIA HD" tvg-logo="http://www.camdserver.com/sb_data/files/logo/kuchnia.jpg" group-title="Live: Poland",PL: KUCHNIA HD
-http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/5135
 #EXTINF:-1 tvg-ID="Lifetime HD PL" tvg-name="PL: Lifetime FHD" tvg-logo="" group-title="Live: Poland",PL: Lifetime FHD
 http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/12681
 #EXTINF:-1 tvg-ID="METRO PL" tvg-name="PL: Metro HD" tvg-logo="" group-title="Live: Poland",PL: Metro HD
@@ -299,8 +293,6 @@ http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/5130
 http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/9206
 #EXTINF:-1 tvg-ID="polsatcafe.pl" tvg-name="PL: Polsat Cafe FHD" tvg-logo="" group-title="Live: Poland",PL: Polsat Cafe FHD
 http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/8083
-#EXTINF:-1 tvg-ID="polsatcafe.pl" tvg-name="PL: Polsat Cafe HD" tvg-logo="[" group-title="Live: Poland",PL: Polsat Cafe HD
-http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/5178
 #EXTINF:-1 tvg-ID="POLSAT Doku HD PL" tvg-name="PL: Polsat Doku FHD" tvg-logo="" group-title="Live: Poland",PL: Polsat Doku FHD
 http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/12685
 #EXTINF:-1 tvg-ID="NULL" tvg-name="PL: Polsat Games FHD" tvg-logo="" group-title="Live: Poland",PL: Polsat Games FHD
@@ -311,8 +303,6 @@ http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/5180
 http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/12686
 #EXTINF:-1 tvg-ID="polsatsportextra.pl" tvg-name="PL: Polsat Sport Extra FHD" tvg-logo="" group-title="Live: Poland",PL: Polsat Sport Extra FHD
 http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/14896
-#EXTINF:-1 tvg-ID="polsatsportextra.pl" tvg-name="PL: Polsat Sport Extra HD" tvg-logo="[" group-title="Live: Poland",PL: Polsat Sport Extra HD
-http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/5183
 #EXTINF:-1 tvg-ID="NULL" tvg-name="PL: Polsat Sport Fight" tvg-logo="" group-title="Live: Poland",PL: Polsat Sport Fight
 http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/12690
 #EXTINF:-1 tvg-ID="polsatsport.pl" tvg-name="PL: Polsat Sport HD 1080P" tvg-logo="" group-title="Live: Poland",PL: Polsat Sport HD 1080P
@@ -321,8 +311,6 @@ http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/14895
 http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/5182
 #EXTINF:-1 tvg-ID="polsatviasatexpl.pl" tvg-name="PL: Polsat Viasat Explore FHD" tvg-logo="" group-title="Live: Poland",PL: Polsat Viasat Explore FHD
 http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/8343
-#EXTINF:-1 tvg-ID="polsatviasathist.pl" tvg-name="PL: Polsat Viasat History HD" tvg-logo="" group-title="Live: Poland",PL: Polsat Viasat History HD
-http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/12691
 #EXTINF:-1 tvg-ID="polsatviasatnature.pl" tvg-name="PL: Polsat Viasat Nature" tvg-logo="" group-title="Live: Poland",PL: Polsat Viasat Nature
 http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/12692
 #EXTINF:-1 tvg-ID="powertv.pl" tvg-name="PL: Power TV" tvg-logo="" group-title="Live: Poland",PL: Power TV
@@ -365,8 +353,6 @@ http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/5131
 http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/9200
 #EXTINF:-1 tvg-ID="tv6.pl" tvg-name="PL: TV6 FHD" tvg-logo="http://www.camdserver.com/sb_data/files/logo/tv-6.jpg" group-title="Live: Poland",PL: TV6 FHD
 http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/5159
-#EXTINF:-1 tvg-ID="tvpsport.pl" tvg-name="PL: TVP SPORT" tvg-logo="" group-title="Live: Poland",PL: TVP SPORT
-http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/2704
 #EXTINF:-1 tvg-ID="tvpsport.pl" tvg-name="PL: TVP Sport FHD" tvg-logo="" group-title="Live: Poland",PL: TVP Sport FHD
 http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/8067
 #EXTINF:-1 tvg-ID="tvs.pl" tvg-name="PL: TVS" tvg-logo="" group-title="Live: Poland",PL: TVS
