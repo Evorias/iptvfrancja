@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-ID="" tvg-name="===== Polska =====" tvg-logo="" group-title="",===== Polska =====
-http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/2699
 #EXTINF:-1 tvg-ID="tvs.pl" tvg-name="PL: TVP" tvg-logo="" group-title="Live: Poland",PL: TVP
 http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/8070
 #EXTINF:-1 tvg-ID="tvppolonia.pl" tvg-name="PL: TVP FHD" tvg-logo="[" group-title="Live: Poland",PL: TVP FHD
