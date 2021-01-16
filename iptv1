@@ -1,1 +1,423 @@
-
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="===== Polska =====" tvg-logo="" group-title="",===== Polska =====
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/2699
+#EXTINF:-1 tvg-ID="tvs.pl" tvg-name="PL: TVP" tvg-logo="" group-title="Live: Poland",PL: TVP
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/8070
+#EXTINF:-1 tvg-ID="tvppolonia.pl" tvg-name="PL: TVP FHD" tvg-logo="[" group-title="Live: Poland",PL: TVP FHD
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/8259
+#EXTINF:-1 tvg-ID="tvp1.pl" tvg-name="PL: TVP 1 FHD" tvg-logo="" group-title="Live: Poland",PL: TVP 1 FHD
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/8069
+#EXTINF:-1 tvg-ID="tvp2.pl" tvg-name="PL: TVP 2 FHD" tvg-logo="" group-title="Live: Poland",PL: TVP 2 FHD
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/8068
+#EXTINF:-1 tvg-ID="tvp1.pl" tvg-name="PL: TVP1" tvg-logo="http://www.camdserver.com/sb_data/files/logo/tvp-1.jpg" group-title="Live: Poland",PL: TVP1
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/6874
+#EXTINF:-1 tvg-ID="tvp2.pl" tvg-name="PL: TVP2" tvg-logo="http://www.camdserver.com/sb_data/files/logo/tvp-2.jpg" group-title="Live: Poland",PL: TVP2
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/6875
+#EXTINF:-1 tvg-ID="TVP 3 PL" tvg-name="PL: TVP3" tvg-logo="[" group-title="Live: Poland",PL: TVP3
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/5127
+#EXTINF:-1 tvg-ID="tvpinfo.pl" tvg-name="PL: TVP INFO" tvg-logo="[" group-title="Live: Poland",PL: TVP INFO
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/5125
+#EXTINF:-1 tvg-ID="tvpabc.pl" tvg-name="PL: TVP ABC" tvg-logo="" group-title="Live: Poland",PL: TVP ABC
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/8344
+#EXTINF:-1 tvg-ID="tvphistoria.pl" tvg-name="PL: TVP HISTORIA" tvg-logo="[" group-title="Live: Poland",PL: TVP HISTORIA
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/5126
+#EXTINF:-1 tvg-ID="tvpkultura.pl" tvg-name="PL: TVP KULTURA" tvg-logo="http://www.camdserver.com/sb_data/files/logo/tvp-kultura.jpg" group-title="Live: Poland",PL: TVP KULTURA
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/5124
+#EXTINF:-1 tvg-ID="tvprozrywka.pl" tvg-name="PL: TVP Rozrywka" tvg-logo="" group-title="Live: Poland",PL: TVP Rozrywka
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/9199
+#EXTINF:-1 tvg-ID="tvpseriale.pl" tvg-name="PL: TVP SERIALE" tvg-logo="http://www.camdserver.com/sb_data/files/logo/tvp-seriale.jpg" group-title="Live: Poland",PL: TVP SERIALE
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/5123
+#EXTINF:-1 tvg-ID="" tvg-name="PL: TVP POLONIA" tvg-logo="" group-title="Live: Poland",PL: TVP POLONIA
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/38588
+#EXTINF:-1 tvg-ID="" tvg-name="PL: TVP POLONIA 1" tvg-logo="" group-title="Live: Poland",PL: TVP POLONIA 1
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/38587
+#EXTINF:-1 tvg-ID="tvn.pl" tvg-name="PL: TVN" tvg-logo="[" group-title="Live: Poland",PL: TVN
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/5160
+#EXTINF:-1 tvg-ID="tvn.pl" tvg-name="PL: TVN FHD" tvg-logo="[" group-title="Live: Poland",PL: TVN FHD
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/8074
+#EXTINF:-1 tvg-ID="tvn24.pl" tvg-name="PL: Tvn 24 FHD" tvg-logo="http://www.camdserver.com/sb_data/files/logo/tvn-24.jpg" group-title="Live: Poland",PL: Tvn 24 FHD
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/4394
+#EXTINF:-1 tvg-ID="tvn7.pl" tvg-name="PL: TVN 7 HD" tvg-logo="" group-title="Live: Poland",PL: TVN 7 HD
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/5174
+#EXTINF:-1 tvg-ID="tvnstyle.pl" tvg-name="PL: TVN Style" tvg-logo="[" group-title="Live: Poland",PL: TVN Style
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/5162
+#EXTINF:-1 tvg-ID="tvnstyle.pl" tvg-name="PL: TVN Style FHD" tvg-logo="[" group-title="Live: Poland",PL: TVN Style FHD
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/8075
+#EXTINF:-1 tvg-ID="tvnturbo.pl" tvg-name="PL: Tvn Turbo" tvg-logo="[" group-title="Live: Poland",PL: Tvn Turbo
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/4393
+#EXTINF:-1 tvg-ID="tvnturbo.pl" tvg-name="PL: TVN Turbo FHD" tvg-logo="[" group-title="Live: Poland",PL: TVN Turbo FHD
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/8076
+#EXTINF:-1 tvg-ID="tvn24biznesswiat.pl" tvg-name="PL: TVN 24 Bis" tvg-logo="" group-title="Live: Poland",PL: TVN 24 Bis
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/8217
+#EXTINF:-1 tvg-ID="tvnfabula.pl" tvg-name="PL: TVN Fabula FHD" tvg-logo="" group-title="Live: Poland",PL: TVN Fabula FHD
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/8220
+#EXTINF:-1 tvg-ID="TLC PL" tvg-name="PL: TLC FHD" tvg-logo="" group-title="Live: Poland",PL: TLC FHD
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/8088
+#EXTINF:-1 tvg-ID="polsat.pl" tvg-name="PL: Polsat HD" tvg-logo="http://www.camdserver.com/sb_data/files/logo/polsat-hd.jpg" group-title="Live: Poland",PL: Polsat HD
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/5175
+#EXTINF:-1 tvg-ID="polsat.pl" tvg-name="PL: Polsat FHD" tvg-logo="[" group-title="Live: Poland",PL: Polsat FHD
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/8339
+#EXTINF:-1 tvg-ID="polsat2.pl" tvg-name="PL: Polsat 2" tvg-logo="http://www.camdserver.com/sb_data/files/logo/polsat-2.jpg" group-title="Live: Poland",PL: Polsat 2
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/5173
+#EXTINF:-1 tvg-ID="polsat2.pl" tvg-name="PL: Polsat 2 FHD" tvg-logo="[" group-title="Live: Poland",PL: Polsat 2 FHD
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/8212
+#EXTINF:-1 tvg-ID="polsatfilm.pl" tvg-name="PL: Polsat Film" tvg-logo="[" group-title="Live: Poland",PL: Polsat Film
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/5177
+#EXTINF:-1 tvg-ID="polsatfilm.pl" tvg-name="PL: Polsat Film FHD" tvg-logo="" group-title="Live: Poland",PL: Polsat Film FHD
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/8218
+#EXTINF:-1 tvg-ID="polsatnews2.pl" tvg-name="PL: Polsat News 2" tvg-logo="" group-title="Live: Poland",PL: Polsat News 2
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/12689
+#EXTINF:-1 tvg-ID="polsatnews.pl" tvg-name="PL: Polsat News FHD" tvg-logo="" group-title="Live: Poland",PL: Polsat News FHD
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/12688
+#EXTINF:-1 tvg-ID="polsatplay.pl" tvg-name="PL: Polsat Play" tvg-logo="[" group-title="Live: Poland",PL: Polsat Play
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/5176
+#EXTINF:-1 tvg-ID="polsatplay.pl" tvg-name="PL: Polsat Play FHD" tvg-logo="[" group-title="Live: Poland",PL: Polsat Play FHD
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/8071
+#EXTINF:-1 tvg-ID="" tvg-name="PL: Polsat Rodzina" tvg-logo="" group-title="Live: Poland",PL: Polsat Rodzina
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/20634
+#EXTINF:-1 tvg-ID="polsatromans.pl" tvg-name="PL: Polsat Romance" tvg-logo="" group-title="Live: Poland",PL: Polsat Romance
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/12687
+#EXTINF:-1 tvg-ID="" tvg-name="PL: Super Polsat" tvg-logo="" group-title="Live: Poland",PL: Super Polsat
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/9203
+#EXTINF:-1 tvg-ID="tv4.pl" tvg-name="PL: TV 4 HD" tvg-logo="http://www.camdserver.com/sb_data/files/logo/tv-4.jpg" group-title="Live: Poland",PL: TV 4 HD
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/5161
+#EXTINF:-1 tvg-ID="tvpuls.pl" tvg-name="PL: TV PULS HD" tvg-logo="" group-title="Live: Poland",PL: TV PULS HD
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/9201
+#EXTINF:-1 tvg-ID="tvpuls2.pl" tvg-name="PL: Puls 2" tvg-logo="" group-title="Live: Poland",PL: Puls 2
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/9205
+#EXTINF:-1 tvg-ID="4funfitdance.pl" tvg-name="PL: 4 Fun Dance" tvg-logo="" group-title="Live: Poland",PL: 4 Fun Dance
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/8079
+#EXTINF:-1 tvg-ID="4funhits.pl" tvg-name="PL: 4 Fun Gold" tvg-logo="" group-title="Live: Poland",PL: 4 Fun Gold
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/8078
+#EXTINF:-1 tvg-ID="4funtv.pl" tvg-name="PL: 4Fun TV" tvg-logo="[""]" group-title="Live: Poland",PL: 4Fun TV
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/15995
+#EXTINF:-1 tvg-ID="" tvg-name="PL: Active Family" tvg-logo="" group-title="Live: Poland",PL: Active Family
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/41192
+#EXTINF:-1 tvg-ID="adventure.pl" tvg-name="PL: ADVENTURE HD" tvg-logo="" group-title="Live: Poland",PL: ADVENTURE HD
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/9144
+#EXTINF:-1 tvg-ID="alekino.pl" tvg-name="PL: ALE KINO" tvg-logo="[" group-title="Live: Poland",PL: ALE KINO
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/5155
+#EXTINF:-1 tvg-ID="alekino.pl" tvg-name="PL: ALE KINO FHD" tvg-logo="" group-title="Live: Poland",PL: ALE KINO FHD
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/8213
+#EXTINF:-1 tvg-ID="NULL" tvg-name="PL: AMC FHD" tvg-logo="" group-title="Live: Poland",PL: AMC FHD
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/20624
+#EXTINF:-1 tvg-ID="Animal Planet HD PL" tvg-name="PL: ANIMAL PLANET" tvg-logo="http://www.camdserver.com/sb_data/files/logo/animal-planet.jpg" group-title="Live: Poland",PL: ANIMAL PLANET
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/5154
+#EXTINF:-1 tvg-ID="" tvg-name="PL: ATM Rozrywka" tvg-logo="" group-title="Live: Poland",PL: ATM Rozrywka
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/41193
+#EXTINF:-1 tvg-ID="axnblack.pl" tvg-name="PL: AXN Black" tvg-logo="" group-title="Live: Poland",PL: AXN Black
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/8341
+#EXTINF:-1 tvg-ID="axn.pl" tvg-name="PL: AXN FHD" tvg-logo="" group-title="Live: Poland",PL: AXN FHD
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/8340
+#EXTINF:-1 tvg-ID="axnspin.pl" tvg-name="PL: AXN SPIN HD" tvg-logo="" group-title="Live: Poland",PL: AXN SPIN HD
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/9145
+#EXTINF:-1 tvg-ID="axnwhite.pl" tvg-name="PL: AXN White" tvg-logo="" group-title="Live: Poland",PL: AXN White
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/8346
+#EXTINF:-1 tvg-ID="NULL" tvg-name="PL: BBC FIRST FHD" tvg-logo="" group-title="Live: Poland",PL: BBC FIRST FHD
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/42718
+#EXTINF:-1 tvg-ID="bbcbrit.pl" tvg-name="PL: BBC BRIT FHD" tvg-logo="" group-title="Live: Poland",PL: BBC BRIT FHD
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/20625
+#EXTINF:-1 tvg-ID="babyfirsttv.pl" tvg-name="PL: BBC CBeebies FHD" tvg-logo="" group-title="Live: Poland",PL: BBC CBeebies FHD
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/20626
+#EXTINF:-1 tvg-ID="bbcearth.pl" tvg-name="PL: BBC EARTH FHD" tvg-logo="http://www.camdserver.com/sb_data/files/logo/bbc-earth.jpg" group-title="Live: Poland",PL: BBC EARTH FHD
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/5153
+#EXTINF:-1 tvg-ID="bbclifestyle.pl" tvg-name="PL: BBC LifeStyle HD" tvg-logo="" group-title="Live: Poland",PL: BBC LifeStyle HD
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/8221
+#EXTINF:-1 tvg-ID="boomerang.pl" tvg-name="PL: BOOMERANG HD" tvg-logo="http://www.camdserver.com/sb_data/files/logo/boomerang.jpg" group-title="Live: Poland",PL: BOOMERANG HD
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/5151
+#EXTINF:-1 tvg-ID="canalplus.pl" tvg-name="PL: CANAL+ Premium HD" tvg-logo="http://www.camdserver.com/sb_data/files/logo/canal-hd.jpg" group-title="Live: Poland",PL: CANAL+ Premium HD
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/5147
+#EXTINF:-1 tvg-ID="canalplusfamily.pl" tvg-name="PL: CANAL+ FAMILY" tvg-logo="http://www.camdserver.com/sb_data/files/logo/canal-film.jpg" group-title="Live: Poland",PL: CANAL+ FAMILY
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/5149
+#EXTINF:-1 tvg-ID="canalplusfilm.pl" tvg-name="PL: CANAL+ FILM" tvg-logo="[" group-title="Live: Poland",PL: CANAL+ FILM
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/5148
+#EXTINF:-1 tvg-ID="canalplussport2.pl" tvg-name="PL: CANAL+ SERIALE" tvg-logo="http://www.camdserver.com/sb_data/files/logo/canal-seriale.jpg" group-title="Live: Poland",PL: CANAL+ SERIALE
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/5146
+#EXTINF:-1 tvg-ID="canalplussport.pl" tvg-name="PL: CANAL+ SPORT" tvg-logo="[" group-title="Live: Poland",PL: CANAL+ SPORT
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/5144
+#EXTINF:-1 tvg-ID="NULL" tvg-name="PL: CANAL+ SPORT 2" tvg-logo="[" group-title="Live: Poland",PL: CANAL+ SPORT 2
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/5145
+#EXTINF:-1 tvg-ID="canalplus.pl" tvg-name="PL: Canal+ Premium FHD" tvg-logo="" group-title="Live: Poland",PL: Canal+ Premium FHD
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/8084
+#EXTINF:-1 tvg-ID="canalplus.pl" tvg-name="PL: Canal +1 FHD" tvg-logo="[" group-title="Live: Poland",PL: Canal +1 FHD
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/8215
+#EXTINF:-1 tvg-ID="canalplusfamily.pl" tvg-name="PL: Canal+ Family FHD" tvg-logo="" group-title="Live: Poland",PL: Canal+ Family FHD
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/8092
+#EXTINF:-1 tvg-ID="canalplusfilm.pl" tvg-name="PL: Canal+ Film FHD" tvg-logo="" group-title="Live: Poland",PL: Canal+ Film FHD
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/8091
+#EXTINF:-1 tvg-ID="canalplusseriale.pl" tvg-name="PL: Canal+ Seriale FHD" tvg-logo="" group-title="Live: Poland",PL: Canal+ Seriale FHD
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/8090
+#EXTINF:-1 tvg-ID="canalplusdiscovery.pl" tvg-name="PL: CANAL+ DOCUMENTARY FHD" tvg-logo="" group-title="Live: Poland",PL: CANAL+ DOCUMENTARY FHD
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/12677
+#EXTINF:-1 tvg-ID="canalplussport2.pl" tvg-name="PL: Canal+ Sport 2 FHD" tvg-logo="" group-title="Live: Poland",PL: Canal+ Sport 2 FHD
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/8087
+#EXTINF:-1 tvg-ID="canalplussport.pl" tvg-name="PL: Canal+ Sport FHD" tvg-logo="" group-title="Live: Poland",PL: Canal+ Sport FHD
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/8089
+#EXTINF:-1 tvg-ID="" tvg-name="PL: Canal+ NOW FHD" tvg-logo="" group-title="Live: Poland",PL: Canal+ NOW FHD
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/42526
+#EXTINF:-1 tvg-ID="cartoonnetwork.pl" tvg-name="PL: Cartoon Network FHD" tvg-logo="" group-title="Live: Poland",PL: Cartoon Network FHD
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/17429
+#EXTINF:-1 tvg-ID="cbsaction.pl" tvg-name="PL: CBS Action" tvg-logo="" group-title="Live: Poland",PL: CBS Action
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/9215
+#EXTINF:-1 tvg-ID="cbsreality.pl" tvg-name="PL: CBS Reality" tvg-logo="" group-title="Live: Poland",PL: CBS Reality
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/9214
+#EXTINF:-1 tvg-ID="comedycentralfamily.pl" tvg-name="PL: CC Family" tvg-logo="" group-title="Live: Poland",PL: CC Family
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/12678
+#EXTINF:-1 tvg-ID="" tvg-name="PL: CI Polsat FHD" tvg-logo="" group-title="Live: Poland",PL: CI Polsat FHD
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/41194
+#EXTINF:-1 tvg-ID="cinemax.pl" tvg-name="PL: CINEMAX" tvg-logo="http://www.camdserver.com/sb_data/files/logo/cinemax.jpg" group-title="Live: Poland",PL: CINEMAX
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/5143
+#EXTINF:-1 tvg-ID="cinemax2.pl" tvg-name="PL: Cinemax2 HD" tvg-logo="" group-title="Live: Poland",PL: Cinemax2 HD
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/12699
+#EXTINF:-1 tvg-ID="comedycentral.pl" tvg-name="PL: COMEDY CENTRAL" tvg-logo="[""]" group-title="Live: Poland",PL: COMEDY CENTRAL
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/5142
+#EXTINF:-1 tvg-ID="davincilearning.pl" tvg-name="PL: Da Vinci Learning" tvg-logo="" group-title="Live: Poland",PL: Da Vinci Learning
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/9213
+#EXTINF:-1 tvg-ID="" tvg-name="PL: Disco Polo Music" tvg-logo="" group-title="Live: Poland",PL: Disco Polo Music
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/41195
+#EXTINF:-1 tvg-ID="discovery.pl" tvg-name="PL: Discovery HD" tvg-logo="[" group-title="Live: Poland",PL: Discovery HD
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/4407
+#EXTINF:-1 tvg-ID="discoveryhistoria.pl" tvg-name="PL: Discovery Historia" tvg-logo="http://www.camdserver.com/sb_data/files/logo/discovery-life.jpg" group-title="Live: Poland",PL: Discovery Historia
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/5172
+#EXTINF:-1 tvg-ID="discoverylife.pl" tvg-name="PL: Discovery Life HD" tvg-logo="" group-title="Live: Poland",PL: Discovery Life HD
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/20627
+#EXTINF:-1 tvg-ID="discoveryscience.pl" tvg-name="PL: DISCOVERY SCIENCE HD" tvg-logo="http://www.camdserver.com/sb_data/files/logo/discovery-science.jpg" group-title="Live: Poland",PL: DISCOVERY SCIENCE HD
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/5141
+#EXTINF:-1 tvg-ID="discoveryturboxtra.pl" tvg-name="PL: DISCOVERY TURBO XTRA" tvg-logo="[""]" group-title="Live: Poland",PL: DISCOVERY TURBO XTRA
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/5140
+#EXTINF:-1 tvg-ID="disneychannel.pl" tvg-name="PL: Disney HD" tvg-logo="http://www.camdserver.com/sb_data/files/logo/disney-channel.jpg" group-title="Live: Poland",PL: Disney HD
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/4406
+#EXTINF:-1 tvg-ID="disneyjunior.pl" tvg-name="PL: Disney Junior HD" tvg-logo="" group-title="Live: Poland",PL: Disney Junior HD
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/8216
+#EXTINF:-1 tvg-ID="disneyxd.pl" tvg-name="PL: Disney XD" tvg-logo="" group-title="Live: Poland",PL: Disney XD
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/9212
+#EXTINF:-1 tvg-ID="domo.pl" tvg-name="PL: DOMO+ FHD" tvg-logo="" group-title="Live: Poland",PL: DOMO+ FHD
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/20628
+#EXTINF:-1 tvg-ID="discoveryturboxtra.pl" tvg-name="PL: DTX" tvg-logo="" group-title="Live: Poland",PL: DTX
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/9211
+#EXTINF:-1 tvg-ID="NULL" tvg-name="PL: E!" tvg-logo="" group-title="Live: Poland",PL: E!
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/9210
+#EXTINF:-1 tvg-ID="elevensports1.pl" tvg-name="PL: Eleven Sports 1 HD" tvg-logo="http://www.camdserver.com/sb_data/files/logo/eleven-sport-hd.jpg" group-title="Live: Poland",PL: Eleven Sports 1 HD
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/7163
+#EXTINF:-1 tvg-ID="elevensports2.pl" tvg-name="PL: Eleven Sports 2 HD" tvg-logo="http://www.camdserver.com/sb_data/files/logo/eleven-hd.jpg" group-title="Live: Poland",PL: Eleven Sports 2 HD
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/7162
+#EXTINF:-1 tvg-ID="elevensports3.pl" tvg-name="PL: Eleven Sports 3 HD" tvg-logo="" group-title="Live: Poland",PL: Eleven Sports 3 HD
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/8345
+#EXTINF:-1 tvg-ID="NULL" tvg-name="PL: Eleven Sports 4 HD" tvg-logo="" group-title="Live: Poland",PL: Eleven Sports 4 HD
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/15994
+#EXTINF:-1 tvg-ID="NULL" tvg-name="PL: Epic Drama FHD" tvg-logo="" group-title="Live: Poland",PL: Epic Drama FHD
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/20629
+#EXTINF:-1 tvg-ID="" tvg-name="PL: ESKA ROCK TV" tvg-logo="" group-title="Live: Poland",PL: ESKA ROCK TV
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/41196
+#EXTINF:-1 tvg-ID="" tvg-name="PL: ESKA TV" tvg-logo="" group-title="Live: Poland",PL: ESKA TV
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/41197
+#EXTINF:-1 tvg-ID="" tvg-name="PL: ESKA TV Extra" tvg-logo="" group-title="Live: Poland",PL: ESKA TV Extra
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/41198
+#EXTINF:-1 tvg-ID="Eurosport 1 HD PL" tvg-name="PL: EUROSPORT 1FHD" tvg-logo="" group-title="Live: Poland",PL: EUROSPORT 1FHD
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/8066
+#EXTINF:-1 tvg-ID="Eurosport 2 HD PL" tvg-name="PL: EUROSPORT FHD" tvg-logo="" group-title="Live: Poland",PL: EUROSPORT FHD
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/17547
+#EXTINF:-1 tvg-ID="NULL" tvg-name="PL: Extreme Sports FHD" tvg-logo="" group-title="Live: Poland",PL: Extreme Sports FHD
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/8086
+#EXTINF:-1 tvg-ID="Fightklub HD PL" tvg-name="PL: FIGHT BOX" tvg-logo="[""]" group-title="Live: Poland",PL: FIGHT BOX
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/5139
+#EXTINF:-1 tvg-ID="" tvg-name="PL: Fightklub FHD" tvg-logo="" group-title="Live: Poland",PL: Fightklub FHD
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/41199
+#EXTINF:-1 tvg-ID="filmbox.pl" tvg-name="PL: Filmbox Extra FHD" tvg-logo="[" group-title="Live: Poland",PL: Filmbox Extra FHD
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/5168
+#EXTINF:-1 tvg-ID="filmboxaction.pl" tvg-name="PL: Filmbox Action" tvg-logo="http://www.camdserver.com/sb_data/files/logo/filmbox-action.jpg" group-title="Live: Poland",PL: Filmbox Action
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/5169
+#EXTINF:-1 tvg-ID="filmboxarthouse.pl" tvg-name="PL: Filmbox Arthouse" tvg-logo="" group-title="Live: Poland",PL: Filmbox Arthouse
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/9209
+#EXTINF:-1 tvg-ID="filmboxfamily.pl" tvg-name="PL: Filmbox Family" tvg-logo="http://www.camdserver.com/sb_data/files/logo/filmbox-family.jpg" group-title="Live: Poland",PL: Filmbox Family
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/5170
+#EXTINF:-1 tvg-ID="filmboxpremium.pl" tvg-name="PL: Filmbox Premium" tvg-logo="[""]" group-title="Live: Poland",PL: Filmbox Premium
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/5171
+#EXTINF:-1 tvg-ID="" tvg-name="PL: FOKUS TV" tvg-logo="" group-title="Live: Poland",PL: FOKUS TV
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/41200
+#EXTINF:-1 tvg-ID="NULL" tvg-name="PL: Food Network FHD" tvg-logo="" group-title="Live: Poland",PL: Food Network FHD
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/20630
+#EXTINF:-1 tvg-ID="foxcomedy.pl" tvg-name="PL: Fox Comedy FHD" tvg-logo="" group-title="Live: Poland",PL: Fox Comedy FHD
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/12680
+#EXTINF:-1 tvg-ID="fox.pl" tvg-name="PL: Fox FHD" tvg-logo="" group-title="Live: Poland",PL: Fox FHD
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/12679
+#EXTINF:-1 tvg-ID="" tvg-name="PL: ID HD" tvg-logo="" group-title="Live: Poland",PL: ID HD
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/42006
+#EXTINF:-1 tvg-ID="NULL" tvg-name="PL: Golf Channel FHD" tvg-logo="" group-title="Live: Poland",PL: Golf Channel FHD
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/41201
+#EXTINF:-1 tvg-ID="NULL" tvg-name="PL: H2 HD" tvg-logo="" group-title="Live: Poland",PL: H2 HD
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/31314
+#EXTINF:-1 tvg-ID="hbo2.pl" tvg-name="PL: HBO 2 FHD" tvg-logo="" group-title="Live: Poland",PL: HBO 2 FHD
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/8080
+#EXTINF:-1 tvg-ID="hbo2.pl" tvg-name="PL: HBO 2 HD" tvg-logo="http://www.camdserver.com/sb_data/files/logo/hbo-2.jpg" group-title="Live: Poland",PL: HBO 2 HD
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/5138
+#EXTINF:-1 tvg-ID="hbo3.pl" tvg-name="PL: HBO 3 FHD" tvg-logo="" group-title="Live: Poland",PL: HBO 3 FHD
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/8077
+#EXTINF:-1 tvg-ID="hbo.pl" tvg-name="PL: HBO FHD" tvg-logo="" group-title="Live: Poland",PL: HBO FHD
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/8081
+#EXTINF:-1 tvg-ID="hbo.pl" tvg-name="PL: HBO HD" tvg-logo="http://www.camdserver.com/sb_data/files/logo/hbo-1.jpg" group-title="Live: Poland",PL: HBO HD
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/5137
+#EXTINF:-1 tvg-ID="hgtv.pl" tvg-name="PL: HG TV HD" tvg-logo="" group-title="Live: Poland",PL: HG TV HD
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/8214
+#EXTINF:-1 tvg-ID="hgtv.pl" tvg-name="PL: HGTV" tvg-logo="" group-title="Live: Poland",PL: HGTV
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/9208
+#EXTINF:-1 tvg-ID="history.pl" tvg-name="PL: History FHD" tvg-logo="" group-title="Live: Poland",PL: History FHD
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/8073
+#EXTINF:-1 tvg-ID="kinopolska.pl" tvg-name="PL: KINO POLSKA" tvg-logo="http://www.camdserver.com/sb_data/files/logo/kino-polska.jpg" group-title="Live: Poland",PL: KINO POLSKA
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/5136
+#EXTINF:-1 tvg-ID="" tvg-name="PL: Kino Polska Muzyka" tvg-logo="" group-title="Live: Poland",PL: Kino Polska Muzyka
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/41202
+#EXTINF:-1 tvg-ID="NULL" tvg-name="PL: KINO TV FHD" tvg-logo="" group-title="Live: Poland",PL: KINO TV FHD
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/12696
+#EXTINF:-1 tvg-ID="kuchniaplus.pl" tvg-name="PL: Kuchnia FHD" tvg-logo="" group-title="Live: Poland",PL: Kuchnia FHD
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/8219
+#EXTINF:-1 tvg-ID="kuchniaplus.pl" tvg-name="PL: KUCHNIA HD" tvg-logo="http://www.camdserver.com/sb_data/files/logo/kuchnia.jpg" group-title="Live: Poland",PL: KUCHNIA HD
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/5135
+#EXTINF:-1 tvg-ID="Lifetime HD PL" tvg-name="PL: Lifetime FHD" tvg-logo="" group-title="Live: Poland",PL: Lifetime FHD
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/12681
+#EXTINF:-1 tvg-ID="METRO PL" tvg-name="PL: Metro HD" tvg-logo="" group-title="Live: Poland",PL: Metro HD
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/20631
+#EXTINF:-1 tvg-ID="minimini.pl" tvg-name="PL: Mini Mini+ FHD" tvg-logo="" group-title="Live: Poland",PL: Mini Mini+ FHD
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/8082
+#EXTINF:-1 tvg-ID="minimini.pl" tvg-name="PL: MINIMINI" tvg-logo="http://www.camdserver.com/sb_data/files/logo/minimini.jpg" group-title="Live: Poland",PL: MINIMINI
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/5134
+#EXTINF:-1 tvg-ID="motowizja.pl" tvg-name="PL: MOTORWIZJA" tvg-logo="[""]" group-title="Live: Poland",PL: MOTORWIZJA
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/5133
+#EXTINF:-1 tvg-ID="" tvg-name="PL: MTV Live HD" tvg-logo="" group-title="Live: Poland",PL: MTV Live HD
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/41203
+#EXTINF:-1 tvg-ID="" tvg-name="PL: MTV MUSIC" tvg-logo="" group-title="Live: Poland",PL: MTV MUSIC
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/41205
+#EXTINF:-1 tvg-ID="mtvpolska.pl" tvg-name="PL: MTV POLSKA" tvg-logo="[" group-title="Live: Poland",PL: MTV POLSKA
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/5132
+#EXTINF:-1 tvg-ID="" tvg-name="PL: MTV ROCKS" tvg-logo="" group-title="Live: Poland",PL: MTV ROCKS
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/41204
+#EXTINF:-1 tvg-ID="natgeo.pl" tvg-name="PL: Nat Geo FHD" tvg-logo="" group-title="Live: Poland",PL: Nat Geo FHD
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/8072
+#EXTINF:-1 tvg-ID="" tvg-name="PL: Nat Geo People FHD" tvg-logo="" group-title="Live: Poland",PL: Nat Geo People FHD
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/40140
+#EXTINF:-1 tvg-ID="natgeowild.pl" tvg-name="PL: Nat Geo Wild" tvg-logo="[""]" group-title="Live: Poland",PL: Nat Geo Wild
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/5164
+#EXTINF:-1 tvg-ID="PL: NATIONAL GEO" tvg-name="PL: NATIONAL GEO" tvg-logo="[""]" group-title="Live: Poland",PL: NATIONAL GEO
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/5163
+#EXTINF:-1 tvg-ID="nickjr.pl" tvg-name="PL: Nick JR" tvg-logo="" group-title="Live: Poland",PL: Nick JR
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/12682
+#EXTINF:-1 tvg-ID="nickelodeon.pl" tvg-name="PL: Nickelodeon" tvg-logo="" group-title="Live: Poland",PL: Nickelodeon
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/12683
+#EXTINF:-1 tvg-ID="" tvg-name="PL: Nicktoons HD" tvg-logo="" group-title="Live: Poland",PL: Nicktoons HD
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/41190
+#EXTINF:-1 tvg-ID="" tvg-name="PL: Novela TV" tvg-logo="" group-title="Live: Poland",PL: Novela TV
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/41206
+#EXTINF:-1 tvg-ID="" tvg-name="PL: NOWA HD" tvg-logo="" group-title="Live: Poland",PL: NOWA HD
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/20632
+#EXTINF:-1 tvg-ID="nsport.pl" tvg-name="PL: nSport" tvg-logo="[" group-title="Live: Poland",PL: nSport
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/3598
+#EXTINF:-1 tvg-ID="nsport.pl" tvg-name="PL: Nsport FHD" tvg-logo="" group-title="Live: Poland",PL: Nsport FHD
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/8085
+#EXTINF:-1 tvg-ID="" tvg-name="PL: NUTA HD" tvg-logo="" group-title="Live: Poland",PL: NUTA HD
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/9191
+#EXTINF:-1 tvg-ID="paramount.pl" tvg-name="PL: Paramount Channel HD" tvg-logo="" group-title="Live: Poland",PL: Paramount Channel HD
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/12684
+#EXTINF:-1 tvg-ID="" tvg-name="PL: Planete  HD" tvg-logo="" group-title="Live: Poland",PL: Planete  HD
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/9207
+#EXTINF:-1 tvg-ID="PlanetePlus HD PL" tvg-name="PL: PLANETE HD" tvg-logo="[" group-title="Live: Poland",PL: PLANETE HD
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/5130
+#EXTINF:-1 tvg-ID="polotv.pl" tvg-name="PL: Polo TV" tvg-logo="" group-title="Live: Poland",PL: Polo TV
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/9206
+#EXTINF:-1 tvg-ID="polsatcafe.pl" tvg-name="PL: Polsat Cafe FHD" tvg-logo="" group-title="Live: Poland",PL: Polsat Cafe FHD
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/8083
+#EXTINF:-1 tvg-ID="polsatcafe.pl" tvg-name="PL: Polsat Cafe HD" tvg-logo="[" group-title="Live: Poland",PL: Polsat Cafe HD
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/5178
+#EXTINF:-1 tvg-ID="POLSAT Doku HD PL" tvg-name="PL: Polsat Doku FHD" tvg-logo="" group-title="Live: Poland",PL: Polsat Doku FHD
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/12685
+#EXTINF:-1 tvg-ID="NULL" tvg-name="PL: Polsat Games FHD" tvg-logo="" group-title="Live: Poland",PL: Polsat Games FHD
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/20633
+#EXTINF:-1 tvg-ID="jimjam.pl" tvg-name="PL: Polsat Jim Jam" tvg-logo="[" group-title="Live: Poland",PL: Polsat Jim Jam
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/5180
+#EXTINF:-1 tvg-ID="POLSAT Music PL" tvg-name="PL: Polsat Music FHD" tvg-logo="" group-title="Live: Poland",PL: Polsat Music FHD
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/12686
+#EXTINF:-1 tvg-ID="polsatsportextra.pl" tvg-name="PL: Polsat Sport Extra FHD" tvg-logo="" group-title="Live: Poland",PL: Polsat Sport Extra FHD
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/14896
+#EXTINF:-1 tvg-ID="polsatsportextra.pl" tvg-name="PL: Polsat Sport Extra HD" tvg-logo="[" group-title="Live: Poland",PL: Polsat Sport Extra HD
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/5183
+#EXTINF:-1 tvg-ID="NULL" tvg-name="PL: Polsat Sport Fight" tvg-logo="" group-title="Live: Poland",PL: Polsat Sport Fight
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/12690
+#EXTINF:-1 tvg-ID="polsatsport.pl" tvg-name="PL: Polsat Sport HD" tvg-logo="[" group-title="Live: Poland",PL: Polsat Sport HD
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/5179
+#EXTINF:-1 tvg-ID="polsatsport.pl" tvg-name="PL: Polsat Sport HD 1080P" tvg-logo="" group-title="Live: Poland",PL: Polsat Sport HD 1080P
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/14895
+#EXTINF:-1 tvg-ID="polsatsportnews.pl" tvg-name="PL: Polsat Sport News HD" tvg-logo="http://www.camdserver.com/sb_data/files/logo/polsat-sport-news.jpg" group-title="Live: Poland",PL: Polsat Sport News HD
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/5182
+#EXTINF:-1 tvg-ID="polsatviasatexpl.pl" tvg-name="PL: Polsat Viasat Explore FHD" tvg-logo="" group-title="Live: Poland",PL: Polsat Viasat Explore FHD
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/8343
+#EXTINF:-1 tvg-ID="polsatviasathist.pl" tvg-name="PL: Polsat Viasat History HD" tvg-logo="" group-title="Live: Poland",PL: Polsat Viasat History HD
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/12691
+#EXTINF:-1 tvg-ID="polsatviasatnature.pl" tvg-name="PL: Polsat Viasat Nature" tvg-logo="" group-title="Live: Poland",PL: Polsat Viasat Nature
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/12692
+#EXTINF:-1 tvg-ID="powertv.pl" tvg-name="PL: Power TV" tvg-logo="" group-title="Live: Poland",PL: Power TV
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/13839
+#EXTINF:-1 tvg-ID="" tvg-name="PL: PULS HD" tvg-logo="" group-title="Live: Poland",PL: PULS HD
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/41207
+#EXTINF:-1 tvg-ID="romancetv.pl" tvg-name="PL: Romance TV" tvg-logo="" group-title="Live: Poland",PL: Romance TV
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/12693
+#EXTINF:-1 tvg-ID="" tvg-name="PL: Red Carpet FHD" tvg-logo="" group-title="Live: Poland",PL: Red Carpet FHD
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/44601
+#EXTINF:-1 tvg-ID="scifiuniversal.pl" tvg-name="PL: SciFi Universal" tvg-logo="" group-title="Live: Poland",PL: SciFi Universal
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/12694
+#EXTINF:-1 tvg-ID="Sportklub PL" tvg-name="PL: Sport Klub" tvg-logo="http://www.camdserver.com/sb_data/files/logo/canal-hd.jpg" group-title="Live: Poland",PL: Sport Klub
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/5150
+#EXTINF:-1 tvg-ID="starstv.pl" tvg-name="PL: STARS.TV" tvg-logo="" group-title="Live: Poland",PL: STARS.TV
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/13840
+#EXTINF:-1 tvg-ID="stopklatka.pl" tvg-name="PL: Stopklatka TV" tvg-logo="" group-title="Live: Poland",PL: Stopklatka TV
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/9204
+#EXTINF:-1 tvg-ID="" tvg-name="PL: StudioMed TV HD" tvg-logo="" group-title="Live: Poland",PL: StudioMed TV HD
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/41208
+#EXTINF:-1 tvg-ID="" tvg-name="PL: Sundance Tv" tvg-logo="" group-title="Live: Poland",PL: Sundance Tv
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/12695
+#EXTINF:-1 tvg-ID="" tvg-name="PL: Superstacja" tvg-logo="" group-title="Live: Poland",PL: Superstacja
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/44600
+#EXTINF:-1 tvg-ID="" tvg-name="PL: Tele 5" tvg-logo="" group-title="Live: Poland",PL: Tele 5
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/41209
+#EXTINF:-1 tvg-ID="teleTOONPlus HD PL" tvg-name="PL: TELETOON" tvg-logo="[""]" group-title="Live: Poland",PL: TELETOON
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/5129
+#EXTINF:-1 tvg-ID="" tvg-name="PL: TNT" tvg-logo="" group-title="Live: Poland",PL: TNT
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/9202
+#EXTINF:-1 tvg-ID="topkids.pl" tvg-name="PL: TO!TV" tvg-logo="" group-title="Live: Poland",PL: TO!TV
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/5166
+#EXTINF:-1 tvg-ID="travelchannel.pl" tvg-name="PL: Travel HD" tvg-logo="[" group-title="Live: Poland",PL: Travel HD
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/5165
+#EXTINF:-1 tvg-ID="tvtrwam.pl" tvg-name="PL: TRWAM" tvg-logo="" group-title="Live: Poland",PL: TRWAM
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/2703
+#EXTINF:-1 tvg-ID="ttv.pl" tvg-name="PL: TTV HD" tvg-logo="http://www.camdserver.com/sb_data/files/logo/orange-sport.jpg" group-title="Live: Poland",PL: TTV HD
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/5131
+#EXTINF:-1 tvg-ID="tvrepublika.pl" tvg-name="PL: TV Republika" tvg-logo="[" group-title="Live: Poland",PL: TV Republika
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/9200
+#EXTINF:-1 tvg-ID="tv6.pl" tvg-name="PL: TV6 FHD" tvg-logo="http://www.camdserver.com/sb_data/files/logo/tv-6.jpg" group-title="Live: Poland",PL: TV6 FHD
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/5159
+#EXTINF:-1 tvg-ID="tvpsport.pl" tvg-name="PL: TVP SPORT" tvg-logo="" group-title="Live: Poland",PL: TVP SPORT
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/2704
+#EXTINF:-1 tvg-ID="tvpsport.pl" tvg-name="PL: TVP Sport FHD" tvg-logo="" group-title="Live: Poland",PL: TVP Sport FHD
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/8067
+#EXTINF:-1 tvg-ID="tvs.pl" tvg-name="PL: TVS" tvg-logo="" group-title="Live: Poland",PL: TVS
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/9198
+#EXTINF:-1 tvg-ID="" tvg-name="PL: TWOJA HD" tvg-logo="" group-title="Live: Poland",PL: TWOJA HD
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/9197
+#EXTINF:-1 tvg-ID="13ulica.pl" tvg-name="PL: Ulicha 13" tvg-logo="" group-title="Live: Poland",PL: Ulicha 13
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/5167
+#EXTINF:-1 tvg-ID="" tvg-name="PL: VOX MUSIC TV" tvg-logo="" group-title="Live: Poland",PL: VOX MUSIC TV
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/41210
+#EXTINF:-1 tvg-ID="" tvg-name="PL: WPolsce" tvg-logo="" group-title="Live: Poland",PL: WPolsce
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/44602
+#EXTINF:-1 tvg-ID="NULL" tvg-name="PL: Water Planet" tvg-logo="" group-title="Live: Poland",PL: Water Planet
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/41191
+#EXTINF:-1 tvg-ID="" tvg-name="PL: WP" tvg-logo="" group-title="Live: Poland",PL: WP
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/12697
+#EXTINF:-1 tvg-ID="" tvg-name="PL: Zoom TV" tvg-logo="" group-title="Live: Poland",PL: Zoom TV
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/12698
+#EXTINF:-1 tvg-ID="" tvg-name="PL: VOD 205" tvg-logo="" group-title="Live: Poland",PL: VOD 205
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/9196
+#EXTINF:-1 tvg-ID="" tvg-name="PL: VOD 206" tvg-logo="" group-title="Live: Poland",PL: VOD 206
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/9195
+#EXTINF:-1 tvg-ID="" tvg-name="PL: VOD 207" tvg-logo="" group-title="Live: Poland",PL: VOD 207
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/9194
+#EXTINF:-1 tvg-ID="" tvg-name="PL: VOD 208" tvg-logo="" group-title="Live: Poland",PL: VOD 208
+http://worldiptv.me:8080/aWg77K24tD/zY35vnmjCu/9193
